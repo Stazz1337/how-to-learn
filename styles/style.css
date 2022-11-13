@@ -178,11 +178,6 @@
   margin: 20px 0 0;
 }
 
-.span-bank {
-  display: block;
-  margin-top: 20px;
-}
-
 .feynman{
   background: url(../images/feynman.png) #f2f2f2 bottom left no-repeat;
   min-height: 890px;
@@ -313,7 +308,7 @@
   color: white;
 }
 
-.footer__icon {
+.footer__social-icon {
   height: 16px;
   width: 16px;
   margin-right: 10px;

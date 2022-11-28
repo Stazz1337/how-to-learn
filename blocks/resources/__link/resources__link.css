@@ -1,0 +1,11 @@
+.recources__link {
+  height: 38px;
+  width: 270px;
+}
+
+.recources__link:hover {
+  opacity: 50%;
+  transition: .5s;
+}
+
+

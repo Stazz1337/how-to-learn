@@ -4,4 +4,4 @@
 
 Используются HTML, CSS, Flex, Iframe, БЭМ.
 
-https://github.com/Stazz1337/how-to-learn/
+https://stazz1337.github.io/how-to-learn/index.html

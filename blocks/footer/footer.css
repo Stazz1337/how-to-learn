@@ -7,12 +7,3 @@
   display: flex;
   justify-content: center;
 }
-
-.block {
-  width: 30%;
-}
-.block__image {
-  width: 100%;
-  background-image: url(https://storge.pic2.me/cm/5120x2880/566/593fd655eec57.jpg);
-  padding-bottom: 100%;
-}
